@@ -1,4 +1,4 @@
-# collegecourse
+# CS-ollege-course
 大学相关课程总结
 
 
@@ -6,6 +6,7 @@
 ### 国外计算机课程
 
 * [CS229: Machine Learning cs229.stanford.edu](http://cs229.stanford.edu/)
+ * https://github.com/Kivy-CN/Stanford-CS-229-CN
 
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
