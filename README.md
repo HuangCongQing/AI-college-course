@@ -1,4 +1,4 @@
-# CS-ollege-course
+# CS-college-course
 大学相关课程总结
 
 
